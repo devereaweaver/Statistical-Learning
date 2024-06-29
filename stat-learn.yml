@@ -1,0 +1,20 @@
+name: statistical-learning
+
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - xlwt
+  - openpyxl 
+  - ipython 
+  - jupyter 
+  - regex 
+  - wget 
+  - numba
+  - pip:
+    - ISLP
+    - jupyterlab-vim
